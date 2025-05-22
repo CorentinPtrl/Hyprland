@@ -62,7 +62,7 @@
     };
 
     xdph = {
-      url = "github:3l0w/xdg-desktop-portal-hyprland/feat/input-capture-impl";
+      url = "github:CorentinPtrl/xdg-desktop-portal-hyprland/feat/input-capture-impl";
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.systems.follows = "systems";
       inputs.hyprland-protocols.follows = "hyprland-protocols";
