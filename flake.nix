@@ -30,7 +30,7 @@
     };
 
     hyprland-protocols = {
-      url = "github:hyprwm/hyprland-protocols";
+      url = "github:3l0w/hyprland-protocols/feat/input-capture-impl";
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.systems.follows = "systems";
     };
